@@ -17,7 +17,7 @@ The project includes the following components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/email-spam-detection.git
+   git clone https://github.com/VeerankiBhargavi/email-spam-detection.git
 
 1. Install the required dependencies:
    ```bash
